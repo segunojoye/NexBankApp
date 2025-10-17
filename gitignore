@@ -1,0 +1,4 @@
+nexbank.db
+__pycache__/
+*.__pyc
+.env
